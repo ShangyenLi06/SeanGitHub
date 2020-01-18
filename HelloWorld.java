@@ -7,7 +7,7 @@ import javax.servlet.http.*;
 public class HelloWorld extends HttpServlet {
 	
 	int count = 0;
-	int long ggyy = 2;
+	int long ggyy = 21;
 	
 	public void doGet(HttpServletRequest req, HttpServletResponse res)
 			                         throws ServletException, IOException {
