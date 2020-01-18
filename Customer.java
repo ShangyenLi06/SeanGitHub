@@ -3,6 +3,7 @@ package com.customer.model;
 public class Customer implements java.io.Serializable {
 		private String username;
 		private String addr;
+		private int yee;
 
 		public Customer(){}
 		
