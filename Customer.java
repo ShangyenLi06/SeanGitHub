@@ -5,6 +5,8 @@ public class Customer implements java.io.Serializable {
 		private String addr;
 		private int yee1;
 		private String sex;
+		private String skincolor;
+
 
 		public Customer(){}
 		
